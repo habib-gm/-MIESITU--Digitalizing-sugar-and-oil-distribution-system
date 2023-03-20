@@ -18,8 +18,8 @@ It will have three diffrent dashboards for admin, distributor and customer. The 
 
 
 # 3. Business feature 1:
-The admin inserts and edits the goods price and other informations like brand so that the customer can get it. 
+* The admin inserts and edits the goods price and other informations like brand so that the customer can get it. 
 
 # 4. Business feature 2
-the distributer approves if the customer buys the goods or not.
+* the distributer approves if the customer buys the goods or not.
 
